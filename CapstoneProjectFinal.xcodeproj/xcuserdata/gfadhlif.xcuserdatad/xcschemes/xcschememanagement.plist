@@ -6,6 +6,8 @@
 	<dict>
 		<key>CapstoneProjectFinal.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
@@ -50,6 +52,19 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6B7E6F0B26A1BEEB00CD344D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6BD9D3BC25DAD99A005DF30D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
